@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(180, 248, 214);
+}
+#show_sketch_score
+{
+    font-size: 30;
+    margin-left: 50px;
+    font-weight: bold;
+    color: rgb(10, 10, 88);
+}
+#show_sketch_time
+{
+    font-size: 30;
+    float: right;
+    margin-right: 50px;
+    font-weight: bold;
+    color: rgb(10, 10, 88);
+}
+#sketch_to_draw 
+{
+    color: rgb(10, 10, 88);
+    font-weight: bold;
+    background-color: rgb(131, 197, 235);
+}
